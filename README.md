@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+```
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -45,8 +45,9 @@ home.html
 </map>
 </body>
 </html>
-'''
-'''
+
+
+
 hotel.html
 <!DOCTYPE html>
 <html lang="en">
@@ -60,8 +61,8 @@ hotel.html
     <p>ss biriyani it is 4.5 star rated hotel in chettipedu</p>
 </body>
 </html>  
-'''
-'''
+
+
 rec.html
 <!DOCTYPE html>
 <html lang="en">
@@ -75,17 +76,19 @@ rec.html
     <p>ralalakshmi engineering college in tamil nadu </p>
 </body>
 </html>
-'''
 
-
+```
 ## OUTPUT
-#home.html
+home.html
 ![alt text](<../map/mapapp/static/Screenshot 2025-12-13 103932.png>)
-#hotel.html
-[text](../map/mapapp/static/hotel.html)
-#rec.html
-[text](../map/mapapp/static/rec.html)
-#temple.html
+
+hotel.html
+![alt text](mapapp/static/hotel.jpg)
+
+rec.html
+![alt text](mapapp/static/rec.jpg)
+
+temple.html
 ![alt text](../map/mapapp/static/temple.jpg)
 
 
