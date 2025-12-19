@@ -80,7 +80,7 @@ rec.html
 ```
 ## OUTPUT
 home.html
-![alt text](<../map/mapapp/static/Screenshot 2025-12-13 103932.png>)
+![alt text](<mapapp/static/Screenshot 2025-12-13 103932.png>)
 
 hotel.html
 ![alt text](mapapp/static/hotel.jpg)
@@ -89,7 +89,7 @@ rec.html
 ![alt text](mapapp/static/rec.jpg)
 
 temple.html
-![alt text](../map/mapapp/static/temple.jpg)
+![alt text](mapapp/static/temple.jpg)
 
 
 
